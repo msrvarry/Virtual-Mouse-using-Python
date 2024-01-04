@@ -4,4 +4,4 @@ OpenCV module - can be downloaded by the command "pip install opencv-python"
 Mediapipe module - can be installed by the command 'pip install mediapipe"
 PyAutoGUI module - can be installed by the command "pip install pyautogui"
 ------------
-if pip is not updated, update it by this the command "python -m pip install --upgrade pip"
+if pip is not updated, update it by this command "python -m pip install --upgrade pip"
